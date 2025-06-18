@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sayiluindia7@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **Magnanimous**
+
+  ##About Me : 
+
+Hi, I'm BOYINI SAILU, a B.Tech/BE student in Information Technology at Ace Engineering College (ACEEC), Ankushapur. I'm passionate about technology and its potential to solve real-world problems. I'm proficient in programming languages like Python and Java, and I have experience in web development, data analysis, and machine learning. I'm also a team player and I'm always eager to learn new things. I'm excited to contribute my skills and knowledge to your team.
   
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/p6CgxTdW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/themudhirajsai/profilecard/?igsh=OXBjb252dGk1NGpi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sayilu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Thelazyone_08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayiluindia7@gmail.com) 
