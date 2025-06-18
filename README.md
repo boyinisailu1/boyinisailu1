@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=boyinisailu1&icon=1&color=9)](https://visitcount.itsvg.in)
 **boyinisailu1/boyinisailu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,8 +30,5 @@ Hi, I'm BOYINI SAILU, a B.Tech/BE student in Information Technology at Ace Engin
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=boyinisailu1&icon=1&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
