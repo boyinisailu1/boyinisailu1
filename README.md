@@ -1,6 +1,9 @@
 # 💫 About Me:
 🌱 I’m currently learning (Data Structure and Algorithms and Android Application Development)<br>🔭 I’m currently working as Java Developer<br>👯 I’m looking to collaborate on Mobile Application Development<br>🤝 I’m looking for help with Android Developer<br>💬 Ask me about Application Development<br>😄 Pronouns: He/Him<br>📫 How to reach me: sayiluindia7@gmail.com<br>⚡ Fun fact: I run my code at night because the bugs are sleeping.
 
+#Resume : 
+[SAI1027.pdf](https://github.com/user-attachments/files/23148071/SAI1027.pdf)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SF6tPDMy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16F7ZyGbuC/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/themudhirajsai/profilecard/?igsh=OXBjb252dGk1NGpi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayilu/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31126050/boyini-sayilu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mudhirajsai01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayiluindia7@gmail.com) 
