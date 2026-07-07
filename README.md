@@ -1,35 +1,104 @@
-# 💫 About Me:
-🌱 I’m currently learning (Data Structure and Algorithms and Android Application Development)<br>🔭 I’m currently working as Java Developer<br>👯 I’m looking to collaborate on Mobile Application Development<br>🤝 I’m looking for help with Android Developer<br>💬 Ask me about Application Development<br>😄 Pronouns: He/Him<br>📫 How to reach me: sayiluindia7@gmail.com<br>⚡ Fun fact: I run my code at night because the bugs are sleeping.
+<h1 align="center">Hi there, I'm Boyini Sailu 👋</h1>
 
-## 💬 Resume:
-[SAILU_AndroidAppDev1002.pdf](https://github.com/user-attachments/files/25455748/SAILU_AndroidAppDev1002.pdf)
+<h3 align="center">AI Agent Builder | Prompt Engineer | Gen AI Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Agents+%26+Automation;Prompt+Engineering;RAG+%7C+LLMs+%7C+MCP+Servers;Always+learning%2C+always+building!&font=Fira%20Code&center=true&width=440&height=45&color=00ADD8&vCenter=true&size=22&pause=1500" />
+</p>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SF6tPDMy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16F7ZyGbuC/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/themudhirajsai/profilecard/?igsh=OXBjb252dGk1NGpi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayilu/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31126050/boyini-sayilu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mudhirajsai01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayiluindia7@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=boyinisailu1&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=boyinisailu1&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=boyinisailu1&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=boyinisailu1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=boyinisailu1&limit=5&theme=nord&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/boyinisailu1"><img src="https://img.shields.io/github/followers/boyinisailu1?label=Follow&style=social"></a>
+  <a href="https://x.com/mudhirajsai01"><img src="https://img.shields.io/twitter/follow/mudhirajsai01?style=social"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=boyinisailu1&icon=6&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/letcode) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me
+ 
+I'm a Fresh Graduate student with a passion for **AI Agents & Automation**, **Prompt Engineering**, and **Gen AI Development**. I'm particularly passionate about learning new technologies and applying them in real-world projects. I'm eager to contribute, learn, and grow in a company that values curiosity and collaboration.
+ 
+I have good knowledge of AI Agents, Prompt Engineering, Automation, LLMs, MCP Servers, and RAG. I love building impactful projects and sharing knowledge.
+ 
+---
+ 
+### 🛠️ Skills
+ 
+**Core Expertise**
+- Prompt Engineering
+- AI Agents & Automation
+- Artificial Intelligence
+- Retrieval Augmented Generation (RAG)
+- Model Context Protocol (MCP)
+- Java
+- LangChain, LangGraph
+**Large Language Models**
+ 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok%20AI-000000?style=for-the-badge&logo=x&logoColor=white)
+ 
+**AI IDEs**
+ 
+![Antigravity](https://img.shields.io/badge/Antigravity%20AI-4B0082?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit%20AI-667881?style=for-the-badge&logo=replit&logoColor=white)
+ 
+**Languages & Frameworks**
+ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+ 
+**Certifications & Programs**
+- 🏆 Apexathon Hackathon — Unstop
+- ☕ Java Programming Intern — VaultofCodes.in
+- 💼 Wipro Talent Next Java Full Stack Program
+- 🐍 [Python Certification — Kaggle](https://www.kaggle.com/certification/badges/boyinisailu/30)
+---
+ 
+### 🚀 Projects
+ 
+#### 🌐 Personal Portfolio Website
+`HTML` `CSS` `JavaScript` `React.js` — *March 2026*
+- Designed and developed a highly polished personal portfolio website using HTML, React, and Tailwind CSS to showcase projects, technical skills, and professional journey.
+- Created a seamless UI/UX featuring modular sections paired with responsive design for all screen devices.
+- Integrated smooth, purposeful animations and clean code practices to deliver a modern, rapid-loading web application.
+#### 🛒 DevX - Full-Stack Project Website
+`HTML` `CSS` `JavaScript` `React.js` — *November 2025*
+- Developed a full-stack website (DevX) with frontend, backend, database, and deployment, along with Affiliate Marketing.
+- Implemented an AI-powered chatbot to deliver fast, personalized assistance and enhance user decision-making.
+- Implemented secure user authentication, device comparison functionality, categorized browsing, and optimized UI/UX for a smooth and reliable user experience.
+#### 🧾 Supermarket Billing System
+`Core Java` `OOPs` — *August 2025*
+- Developed and maintained Java-based applications including a Supermarket Billing System and Core Java Calculator.
+- Applied Object-Oriented Programming principles including Encapsulation, Inheritance, Polymorphism, and Abstraction to improve code maintainability.
+- Debugged and tested application functionality to ensure reliability and performance.
+---
+ 
+### 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boyinisailu1&show_icons=true&theme=radical" alt="BOYINI SAILU's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boyinisailu1&theme=radical" alt="GitHub Streak" />
+</p>
+---
+ 
+### 📫 Contact Me
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boyinisailu1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/boyinisailu1)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mudhirajsai01)
+ 
+---
+ 
+<p align="center">
+  <i>"Everything Comes From Experience."</i>
+</p>
+ 
