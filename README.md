@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Boyini Sailu 👋</h1>
 
-<h3 align="center">AI Agent Builder | Prompt Engineer | Gen AI Developer</h3>
+<h3 align="center"> Data Analyst | MySQL | Python| Power BI| Adv Excel |Prompt Engineer | Gen AI [LLM's & API's]</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Agents+%26+Automation;Prompt+Engineering;RAG+%7C+LLMs+%7C+MCP+Servers;Always+learning%2C+always+building!&font=Fira%20Code&center=true&width=440&height=45&color=00ADD8&vCenter=true&size=22&pause=1500" />
@@ -15,14 +15,27 @@
 
 ### 🧑‍💻 About Me
  
-I'm a Fresh Graduate student with a passion for **AI Agents & Automation**, **Prompt Engineering**, and **Gen AI Development**. I'm particularly passionate about learning new technologies and applying them in real-world projects. I'm eager to contribute, learn, and grow in a company that values curiosity and collaboration.
+I'm a Fresh Graduate student with a passion for **Data Analyst**, **Prompt Engineering**, and **Gen AI**. I'm particularly passionate about learning new technologies and applying them in real-world projects. I'm eager to contribute, learn, and grow in a company that values curiosity and collaboration.
  
-I have good knowledge of AI Agents, Prompt Engineering, Automation, LLMs, MCP Servers, and RAG. I love building impactful projects and sharing knowledge.
+I have good knowledge of Data Analytics, SQL, Python, Advanced Excel, Power BI, AI Agents, Prompt Engineering, Automation, LLMs, MCP Servers, and RAG. I love building impactful projects and sharing knowledge.
  
 ---
  
 ### 🛠️ Skills
- 
+ **Data Analytics Skills:**
+ - MySQL
+ - Python
+ - Excel & Advanced Excel
+ - Power BU
+ - Data Visualization,
+ - Data Cleansing,
+ - Data Modeling,
+ - Dashboards
+ - Data Analytics Fresher
+ -  Microsoft Office,
+ -  Data Collection,
+ -  Data Extraction
+ -  Data Management
 **Core Expertise**
 - Prompt Engineering
 - AI Agents & Automation
@@ -45,7 +58,9 @@ I have good knowledge of AI Agents, Prompt Engineering, Automation, LLMs, MCP Se
 ![Replit](https://img.shields.io/badge/Replit%20AI-667881?style=for-the-badge&logo=replit&logoColor=white)
  
 **Languages & Frameworks**
- 
+![MySQL](https://img.shields.io/badge/MySQL-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power-BI-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Excel & Advanced Excel](https://img.shields.io/badge/Adv-Excel-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
